@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <windows.h>
-#include <fstream>
 #include <iostream>
 #include <string>
 #include <cstring>
-#include <sstream>
 
 using namespace std;
 
